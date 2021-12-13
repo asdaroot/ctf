@@ -1,0 +1,5 @@
+Instruments:
+nc
+readelf -l   --> !GNU STACK RWE
+IDA
+python 2.7
